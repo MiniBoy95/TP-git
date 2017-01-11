@@ -1,5 +1,0 @@
-74cc0e8 add changelog
-181f375 display copyright
-5e3479b Add file header
-ec725ce add build time
-f2cefed initial commit
